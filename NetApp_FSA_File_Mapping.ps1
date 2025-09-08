@@ -1,4 +1,5 @@
 # Script powershell for mapping all files inside File Analytics Volume into csv file per Volume
+## written by dmaryuma@netapp.com
 
 # skip certificate
 [Net.ServicePointManager]::SecurityProtocol = [Net.securityProtocolType]::Tls12
